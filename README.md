@@ -1,5 +1,6 @@
 # SearchTree 搜索树组件
 
+![](https://img.shields.io/badge/npm-0.0.1-orange.svg)
 
 ### 何时使用
 
