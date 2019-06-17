@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/hanguihe/search-tree#readme",
   "scripts": {
-    "start": "webpack-dev-server --config ./config/webpack.config.js --mode development --open development",
+    "start": "webpack-dev-server --config ./config/webpack.config.js --mode development --open --hot",
     "build": "webpack --config ./config/webpack.config.js --mode production",
     "compile": "npx babel src --out-dir lib"
   },
