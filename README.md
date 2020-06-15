@@ -2,6 +2,10 @@
 
 [![](https://img.shields.io/badge/npm-0.0.1-orange.svg)](https://www.npmjs.com/package/search-filter-tree)
 
+## 不再维护
+
+请使用[bsy-components](https://baishancloudfe.github.io/bsy-components/#/show/search-tree)
+
 ### 何时使用
 
 当子节点内容较多需要搜索并高亮展示时，使用搜索树可快速找到目标节点。
